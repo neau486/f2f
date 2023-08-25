@@ -1,6 +1,7 @@
 # F2f
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
+The aim of this project its related to farm 2 fork EU strategy https://food.ec.europa.eu/horizontal-topics/farm-fork-strategy_en
 
 ## Development server
 

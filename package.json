@@ -6,7 +6,8 @@
     "run-start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "pckg-update": "ng update"
   },
   "private": true,
   "dependencies": {
